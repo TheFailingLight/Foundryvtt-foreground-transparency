@@ -4,7 +4,7 @@
   "description": "A module to adjust the transparency of the foreground layer in Foundry VTT.",
   "version": "1.0.0",
   "author": "FailingLight",
-  "id": "foreground-transparency",  // This line is required!
+  "id": "foreground-transparency",
   "manifest": "https://raw.githubusercontent.com/TheFailingLight/Foundryvtt-foreground-transparency/main/module.json",
   "minimumCoreVersion": "0.8.0",
   "scripts": ["scripts/main.js"],
