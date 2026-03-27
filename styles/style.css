@@ -1,0 +1,16 @@
+.layer-foreground {
+    transition: opacity 0.3s ease;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
